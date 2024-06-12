@@ -1,0 +1,10 @@
+//
+// Created by 97250 on 12/06/2024.
+//
+
+#ifndef PRIMESCOUNTER_CONFIG_H
+#define PRIMESCOUNTER_CONFIG_H
+
+#define BATCH_SIZE 10000
+
+#endif //PRIMESCOUNTER_CONFIG_H
